@@ -5,6 +5,8 @@ Pack de iconos en SVG con todos los colores admitidos a través de _keywords_ en
 
 ## DEMO
 
+http://jorgeatgu.github.io/demo
+
 He creado una demo para ver como queda cada color, simplemente hay que pinchar en el cuadrado correspondiente, en la parte inferior hay dos cuadrados donde podemos elegir entre blanco y negro para el interior del icono. Ademas cuando pinchamos en un color nos aparece también la _keyword_ de ese color.
 
 ### Cambiar colores
