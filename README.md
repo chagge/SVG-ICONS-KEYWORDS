@@ -1,7 +1,7 @@
 SVG-ICONS-KEYWORDS
 ==================
 
-Pack de iconos en SVG con todos los colores admitidos a través de _keywords_ en la especificación de SVG&CSS. Cada color tiene dos versiones, una con el interior en blanco y otra con el interior en negro. El tamaño de los iconos es de 32píxeles. También hay disponbile una version con los colores originales de cada logo.
+Pack de iconos en SVG con todos los colores admitidos a través de _keywords_ en la especificación de SVG&CSS. Cada color tiene dos versiones, una con el interior en blanco y otra con el interior en negro. El tamaño de los iconos es de 32píxeles. También hay una version de los iconos con los colores originales de cada logo.
 
 ## DEMO
 
@@ -191,4 +191,4 @@ Adapt — remix, transform, and build upon the material
 for any purpose, even commercially.
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-#Copia, adapta o inspiate como te de la gana pero distribuye gratuitamente :)
+#Copia, adapta o inspirate como te de la gana pero distribuye gratuitamente :)
