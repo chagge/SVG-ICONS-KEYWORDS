@@ -1,0 +1,5 @@
+<svg width="32px" height="32px" viewBox="0 0 32 32">
+	<circle fill="mediumspringgreen" cx="16" cy="16" r="16"/>
+	<circle fill="black" cx="10.5" cy="16" r="5"/>
+	<circle fill="black" cx="22.5" cy="16" r="5"/>
+</svg>
