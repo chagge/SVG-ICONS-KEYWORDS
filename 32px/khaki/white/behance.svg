@@ -1,4 +1,5 @@
-<svg width="32px" height="32px" viewBox="0 0 32 32">
+<svg xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 32 32" aria-labelledby="title">
+<title id="title"></title>
 		<circle fill="khaki" cx="16" cy="16" r="16"/>
 		<rect x="4.3" y="8.6" fill="white" width="3.3" height="14.5"/>
 		<rect x="7.5" y="8.6" fill="white" width="4.4" height="2.6"/>
